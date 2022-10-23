@@ -8,6 +8,5 @@ I am swarnim38. I am newbie in coding.
 
 Reach me out on discord : `chrysus#9721`
 
-![img](https://github-readme-stats.vercel.app/api?username={swarnim38})
+    [![swarnim's github stats][(https://github-readme-stats.vercel.app/api?username=swarnim38&theme=blue-green)](https://github.com/swarnim38/github-readme-stats)
 
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username={swarnim38})
