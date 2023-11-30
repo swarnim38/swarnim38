@@ -11,4 +11,4 @@ Interests:
 📜 Quiz events 
 🧠 discussing and researching ways to optimize human mind and productivity
 
-💻 currently focusing on `R`, `Java`, `MySQL` and `Python`
+💻 currently focusing on 'Java' and DBMS 
