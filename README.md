@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Director of Quiz Club at Delhi Public School - Bopal, Ahmedabad
+Ex-Director of Quiz Club at Delhi Public School - Bopal, Ahmedabad (2023-24)
 
 Hobbies: Swimming, weightlifting, calisthenics
 
