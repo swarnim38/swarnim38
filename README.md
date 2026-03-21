@@ -4,8 +4,6 @@
 
 I'm an analytical BBA undergraduate at **Symbiosis Centre for Management Studies (SCMS), Pune**, specializing in the intersection of Software Development and Operational Excellence. My focus is on applying scientific rigor to business systems — utilizing statistical process control and object-oriented logic to solve complex structural problems.
 
-As the **Editor in Chief of Eunoia**, I treat content management as a data-driven workflow, overseeing a cross-functional team of 15 members through the lens of workforce oversight and quality standards.
-
 ---
 
 ## 🚀 Featured Project
